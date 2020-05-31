@@ -36,3 +36,8 @@ Something like this:
 	        skill=0.60000002;
 		};
 ```
+
+# DMS part
+
+Swap the 2 files from DMS with the ones you downloaded here.
+Turn on offloading and done. 
